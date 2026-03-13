@@ -1,0 +1,97 @@
+<resources>
+    <!--credenciales de aplicativo-->
+    <string name="app_name">Ecolim SAC</string>
+    <string name="developer">adan chambi</string>
+    <string name="desarrollo">desarrollado por:</string>
+    <string name="version">Version 1.0.0</string>
+    <!--login-->
+    <string name="Titulo_login">Ingresar Sesion</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="txt_usuario">Ingrase Usuario</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="txt_password">Ingrasar Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="lbl_crear_cuenta">No tienes cuenta ?, Registrate</string>
+    <!--registro-->
+    <string name="titulo_registro">Crear cuenta</string>
+
+    <string name="lbl_nombre_usuario">Nombre</string>
+    <string name="txt_nombre_usuario">Ingresar Nombre de Usuario</string>
+
+    <string name="lbl_apellido_usuario">Apellido</string>
+    <string name="txt_apellido_usuario">Ingresar Apellido</string>
+
+    <string name="lbl_email_usuario">Correo Electronico</string>
+    <string name="txt_email_usuario">Ingresar Correo Electronico</string>
+
+    <string name="lbl_nueva_password">Contraseña</string>
+    <string name="txt_nueva_password">Ingresar Contraseña</string>
+    <string name="lbl_confirmar_password">Confirmar Contraseña</string>
+    <string name="txt_confirmar_password">Repita la Contraseña</string>
+
+    <string name="btn_registrar">Registrar</string>
+    <string name="lbl_tienes_cuenta">Ya tienes cuenta? Inicia Sesion</string>
+
+    <!--Dahs board-->
+    <string name="bienvenido">Bienvenido</string>
+    <string name="estadistica">Estadistica</string>
+    <string name="nueva_recoleccion">Nueva Recoleccion</string>
+    <string name="historial">Mi Historial</string>
+    <string name="mis_datos">Mis Datos</string>
+    <string name="cerrar_sesión">Cerrar Sesión</string>
+
+    <!-- Mis datos -->
+    <string name="titulo_md">Datos Personales</string>
+    <string name="nombre_md">Nombres</string>
+    <string name="apellido_md">Apellidos</string>
+    <string name="correo_md">Correo Usuario</string>
+    <string name="md_uid_titulo">Codigo de empleado (UID)</string>
+    <string name="md_nivel_acceso_default">Nivel de acceso: -</string>
+    <string name="md_nivel_acceso_valor">Nivel de acceso: %1$s</string>
+    <string name="md_rol_no_definido">No definido</string>
+    <string name="md_btn_guardar">Guardar cambios</string>
+    <string name="md_datos_incompletos">Complete nombre y apellido para guardar</string>
+    <string name="md_datos_actualizados">Datos actualizados correctamente</string>
+
+    <!-- Nueva Recoleccion -->
+    <string name="nr_titulo">Nueva Recoleccion</string>
+    <string name="nr_tipo_residuo">Tipo de residuo</string>
+    <string name="nr_clasificacion">Clasificacion especifica</string>
+    <string name="nr_peso">Cantidad/Peso (Kg)</string>
+    <string name="nr_area_origen">Area de origen</string>
+    <string name="nr_registrar">Registrar Recoleccion</string>
+    <string name="nr_opcion">Seleccione una opcion</string>
+    <string name="nr_hint_peso">0.0</string>
+
+    <!-- Historial -->
+    <string name="historial_titulo">Mi Historial</string>
+    <string name="historial_vacio">Aun no tienes recolecciones registradas.</string>
+    <string name="historial_estado">Subido a la nube</string>
+    <string name="historial_fecha_proceso">Fecha en proceso...</string>
+    <string name="historial_registrado_por">Registrado por: %1$s</string>
+
+    <!-- Estadistica -->
+    <string name="est_titulo">Estadisticas</string>
+    <string name="est_desde">Desde</string>
+    <string name="est_hasta">Hasta</string>
+    <string name="est_tipo">Tipo de residuo</string>
+    <string name="est_total_kg">Total recolectado (Kg)</string>
+    <string name="est_total_ops">Total de operaciones</string>
+    <string name="est_exportar">Exportar PDF / Excel</string>
+    <string name="est_sin_datos">Sin datos para el filtro seleccionado.</string>
+    <string name="valor_cero_decimal">0.0</string>
+    <string name="valor_cero">0</string>
+
+    <!-- Mensajes -->
+    <string name="msg_seleccione_tipo">Seleccione un tipo de residuo</string>
+    <string name="msg_seleccione_clasificacion">Seleccione una clasificacion</string>
+    <string name="msg_ingrese_peso">Ingrese un peso valido mayor a 0</string>
+    <string name="msg_seleccione_area">Seleccione un area de origen</string>
+    <string name="msg_sesion_requerida">Debe iniciar sesion nuevamente</string>
+    <string name="msg_guardando">Guardando recoleccion...</string>
+    <string name="msg_registro_ok">Recoleccion registrada correctamente</string>
+    <string name="msg_error">Ocurrio un error: %1$s</string>
+
+    <string name="export_pdf">Exportar PDF</string>
+    <string name="export_excel">Exportar Excel (CSV)</string>
+</resources>

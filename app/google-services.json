@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061165155933",
+    "project_id": "ecolim-sac-db",
+    "storage_bucket": "ecolim-sac-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061165155933:android:c0607e0ddd150460026fb4",
+        "android_client_info": {
+          "package_name": "com.ecollimsac.ecolim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXLxHqBlsnqXLdRHq24pwFVf2EAU5a3Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
